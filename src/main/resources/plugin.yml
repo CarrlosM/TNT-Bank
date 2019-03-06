@@ -1,0 +1,8 @@
+name: TNTBank
+description: Allow factions to deposit and withdraw TNT using their bank
+version: ${project.version}
+author: Carlos#2018
+main: us.carlosmendez.tntbank.TNTBank
+commands:
+  tnt:
+    description: View your bank balance, deposit tnt, and withdraw tnt
